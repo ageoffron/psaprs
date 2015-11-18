@@ -1,2 +1,2 @@
 # psaprs
-APRS Radio Amateur Powershell Module
+APRS  Amateur Radio Powershell Module
